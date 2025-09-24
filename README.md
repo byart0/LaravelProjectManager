@@ -22,6 +22,11 @@ If it gives mistakes about "database" :
    ```
    * session_drive=cookie
    ```
+If it gives mistakes after trying to register or login again :
+   ```
+   * delete your last cookies in your browser.
+   ```
 
 ---
+
 
